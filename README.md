@@ -40,7 +40,6 @@ Investigar a evolução do consumo energético brasileiro e projetar tendências
   - Consumo de energia renovável  
   - Participação de renováveis  
   - Consumo de combustíveis fósseis  
-  - Emissões de CO₂  
   - Energia per capita  
   - Geração elétrica total  
 
